@@ -8,7 +8,7 @@
 ![image](figures/cropped.png)
 --->
 
-<h1 align="center">Hi there <img src="https://emojis.slackmojis.com/emojis/images/1597609869/10098/lucky_parrot.gif?1597609869" width="30"/>)</h1>
+<h1 align="center">Hi there <img src="https://emojis.slackmojis.com/emojis/images/1597609869/10098/lucky_parrot.gif?1597609869" width="30"/></h1>
 
 
 <h3 align="center">NLP Scientist & Engineer</h3>
